@@ -1,0 +1,4 @@
+#Wed Apr 13 09:43:55 IST 2022
+base.0=/Users/tariquekhan/Personal/Tarique/Flutter Github Projects/animated_container_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
